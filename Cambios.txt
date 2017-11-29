@@ -1,0 +1,6 @@
+Diferencias 12-10
+
+# Busqueda usando TNT Search
+# Subida de imagenes al servidor
+# Panel de Usuario
+# Avisos destacados aleatorios

@@ -1,0 +1,26 @@
+#upload-form{
+  background: rgba(200, 200, 200, 0.6);
+  background-image:url(http://laravel.dev/images/upload.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 50% 50%;
+  border-radius: 15px;
+  border: 1px dashed #000;
+  position:relative;
+  text-align:center;
+  vertical-align: middle;
+  display: table-cell;
+}
+
+input[type="file"]{
+  height: 150px;
+  opacity: 0 !important;
+  overflow: hidden !important;
+  position:relative;
+}
+#btn-upload{
+  position:absolute;
+  bottom: 10%;
+  width:20%;
+  left: 40%;
+}
